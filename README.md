@@ -1,2 +1,2 @@
 # Joystick-emulator
-Joystick control emulator program/Программа эмулятор управления джойстиком
+Joystick control emulator program/Эмулятор управления джойстиком
