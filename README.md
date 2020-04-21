@@ -23,8 +23,13 @@
          coefficient for speed - шаг изменения скорости при скроллировании.  
          coefficient for acceleration - шаг изменения ускорения при скроллировании.  
          Select axis of rotation - ось вращения.  
-         Set mode - выбор настройки, которую изменяем (угол поворота, скорость, ускорение). Можно выбирать несколько.  
+         Set mode - выбор настройки, которую изменяем (угол поворота, скорость, ускорение). Можно выбирать несколько. 
+         ![](https://github.com/Diceorfl/Joystick-emulator/blob/master/Set%20Time.PNG?raw=true)
       4.Жмём Ok.  
 
  #### Требования для сборки проекта:
-      Комплект: Qt5.14.2 MSVC2017 32 или 64 bit.
+      Комплект: Qt5.14.2 MSVC2017 32 или 64 bit.  
+
+![](https://github.com/Diceorfl/Joystick-emulator/blob/master/ex.PNG?raw=true)  
+![](https://github.com/Diceorfl/Joystick-emulator/blob/master/ex2.PNG?raw=true)  
+![](https://github.com/Diceorfl/Joystick-emulator/blob/master/ex3.PNG?raw=true)
